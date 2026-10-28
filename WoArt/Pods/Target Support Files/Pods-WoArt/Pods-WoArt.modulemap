@@ -1,0 +1,6 @@
+framework module Pods_WoArt {
+  umbrella header "Pods-WoArt-umbrella.h"
+
+  export *
+  module * { export * }
+}
